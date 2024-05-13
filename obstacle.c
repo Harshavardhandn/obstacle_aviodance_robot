@@ -1,3 +1,5 @@
+// Refernce from youtube : https://www.the-diy-life.com/arduino-based-obstacle-avoiding-robot-car/
+// We edited this code according to our robot purpose 
 #include <AFMotor.h>  
 #include <NewPing.h>
 #include <Servo.h> 
